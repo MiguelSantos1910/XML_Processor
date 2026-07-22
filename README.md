@@ -181,8 +181,7 @@ PORT=3001
 
 MONGODB_URI=sua_connection_string
 
-REDIS_HOST=localhost
-REDIS_PORT=6379
+CLIENTES_API=sua_connection_string
 ```
 
 ---
